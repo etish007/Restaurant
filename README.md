@@ -170,7 +170,7 @@ footer p {
 <body>
     <header>
         <h1>Welcome to Night Star Restaurant</h1>
-        <img src="\RESOURCES\NIGHT STAR.png" alt="Restaurant Image">
+        <img src="resources/NIGHT STAR.png" alt="Restaurant Image">
     </header>
 
     <main>
@@ -203,9 +203,9 @@ footer p {
                 <li>Dahi Vada</li>
             </ul>
             <div class="image-gallery">
-                <img src="\RESOURCES\APPETIZER1.jpg" alt="Image 1">
-                <img src="\RESOURCES\APPETIZER2.jpg" alt="Image 2">
-                <img src="\RESOURCES\APPETIZER3.jpg" alt="Image 3">
+                <img src="resources/APPETIZER1.jpg" alt="Image 1">
+                <img src="resources/APPETIZER2.jpg" alt="Image 2">
+                <img src="resources/APPETIZER3.jpg" alt="Image 3">
             </div>
     
             <h3>Main Courses</h3>
@@ -222,9 +222,9 @@ footer p {
                 <li>Jeera Rice</li>
             </ul>
             <div class="image-gallery">
-                <img src="\RESOURCES\MAIN1.jpg" alt="Image 1">
-                <img src="\RESOURCES\MAIN2.jpg" alt="Image 2">
-                <img src="\RESOURCES\MAIN3.jpg" alt="Image 3">
+                <img src="resources/MAIN1.jpg" alt="Image 1">
+                <img src="resources/MAIN2.jpg" alt="Image 2">
+                <img src="resources/MAIN3.jpg" alt="Image 3">
             </div>
     
             <h3>Desserts</h3>
@@ -241,9 +241,9 @@ footer p {
                 <li>Falooda</li>
             </ul>
             <div class="image-gallery">
-                <img src="\RESOURCES\DESSERT1.jpg" alt="Image 1">
-                <img src="\RESOURCES\DESSERT2.jpg" alt="Image 2">
-                <img src="\RESOURCES\DESSERT3.jpg" alt="Image 3">
+                <img src="resources/DESSERT1.jpg" alt="Image 1">
+                <img src="resources/DESSERT2.jpg" alt="Image 2">
+                <img src="resources/DESSERT3.jpg" alt="Image 3">
             </div>
         </section>
     
@@ -254,13 +254,13 @@ footer p {
                 <p>Email: honeyyy101@gmail.com</p>
                 <div class="location-social">
                     <a href="https://www.google.com/maps/contrib/103805375822734580186/place/ChIJJaA6g_rPGjkR2-vbSwAq9UY/@31.3438659,76.2800038,17.25z/data=!4m8!1m7!3m6!1s0x391acffa833aa025:0x46f52a004bdbebdb!2sNight+Star+guest+house+and+Bar+Restaurant!8m2!3d31.3437675!4d76.2806209!16s%2Fg%2F11j31vw0y3?entry=ttu">
-                        <img src="\RESOURCES\map.png" alt="Location Icon">
+                        <img src="resources/map.png" alt="Location Icon">
                     </a>
                     <a href="https://www.facebook.com/your-facebook-page-url" target="_blank">
-                        <img src="\RESOURCES\facebook.png" alt="Facebook Icon">
+                        <img src="resources/facebook.png" alt="Facebook Icon">
                     </a>
                     <a href="https://www.instagram.com/your-instagram-page-url" target="_blank">
-                        <img src="\RESOURCES\instagram.png" alt="Instagram Icon">
+                        <img src="resources/instagram.png" alt="Instagram Icon">
                     </a>
                 </div>
             </div>
